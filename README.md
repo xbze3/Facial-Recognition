@@ -16,6 +16,10 @@ A Python-based facial recognition system utilizing the `dlib` and `face_recognit
   - `numpy`
   - `opencv-python`
 
+## Directory Structure
+- The program expects a directory named `faces` to exist in the same directory as the script.
+- This directory should contain images of faces you want to recognize, with each file named appropriately for easy identification (e.g., `person_name.jpg`).
+
 ## Installation
 1. Clone the repository:
   ```
