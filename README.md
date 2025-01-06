@@ -26,8 +26,8 @@ A Python-based facial recognition system utilizing the `dlib` and `face_recognit
 ## Set up a virtual environment
   ```
     python -m venv env
-    source env/bin/activate   # Linux/Mac
-    env\Scripts\activate
+    source env/bin/activate   # Linux
+    env\Scripts\activate      # Mac
   ```
 
 ## Usage
