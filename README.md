@@ -23,7 +23,7 @@ A Python-based facial recognition system utilizing the `dlib` and `face_recognit
 ## Installation
 1. Clone the repository:
   ```
-    git clone https://github.com/your-username/Facial_Recognition_System.git
+    git clone https://github.com/xbze3/Facial-Recognition.git
     cd Facial_Recognition_System
   ```
 
