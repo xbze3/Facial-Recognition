@@ -40,7 +40,7 @@ A Python-based facial recognition system utilizing the `dlib` and `face_recognit
   ```
 
 ## Credit
-- YouTube Tutorial: [Face Recognition With Python 3.10 Tutorial (Webcam)](https://youtu.be/tl2eEBFEHqM?feature=shared)
+- YouTube Tutorial: [Indently - Face Recognition With Python 3.10 Tutorial (Webcam)](https://youtu.be/tl2eEBFEHqM?feature=shared)
 #### Node: I kept running into an error while developing and this reply by this GitHub user was exactly what I needed to solve the error
 - Thread: [GitHub Error Thread](https://github.com/ageitgey/face_recognition/issues/1548)
 
